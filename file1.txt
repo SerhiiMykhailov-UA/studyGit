@@ -1,6 +1,6 @@
 hello worlg !!!-!! 123
 good bye
 
-ssh
+line from user2
 
 line from user1
