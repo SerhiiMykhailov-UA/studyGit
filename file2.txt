@@ -2,3 +2,5 @@ good bye
 some other line
 
 new email
+
+Line from user2
